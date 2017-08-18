@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\project\XmlApp\XmlApp\bin\Debug\XmlApp.exe.config
+C:\Users\lenovo\Desktop\project\XmlApp\XmlApp\bin\Debug\XmlApp.exe
+C:\Users\lenovo\Desktop\project\XmlApp\XmlApp\bin\Debug\XmlApp.pdb
+C:\Users\lenovo\Desktop\project\XmlApp\XmlApp\obj\Debug\XmlApp.exe
+C:\Users\lenovo\Desktop\project\XmlApp\XmlApp\obj\Debug\XmlApp.pdb
